@@ -1,2 +1,0 @@
-# soc.digram
-Graphical Models

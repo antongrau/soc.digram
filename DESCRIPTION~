@@ -1,0 +1,12 @@
+Package: soc.digram
+Title: Graphical Models for the Social Sciences
+Description: soc.digram is a package for the analysis of graphical models
+URL: https://github.com/antongrau/soc.digram
+Version: 0.0.1
+Maintainer: Anton Grau Larsen <alar@soc.ku.dk>
+Author: Svend Kreiner, Anton Grau Larsen and Peter Gundelach
+Depends:
+    R (>= 2.15.0)
+Imports:
+    igraph
+License: GPL-3
