@@ -12,7 +12,3 @@
 vignettes/*.html
 vignettes/*.pdf
 .Rproj.user
-
-soc.digram.Rproj
-.gitignore
-.Rbuildignore
